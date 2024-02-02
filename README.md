@@ -1,16 +1,29 @@
-# candle_stick
+# Candle Stick Real Time
 
-A new Flutter project.
+A Flutter-based application that displays a real-time candlestick graph of any cryptocurrency using the Binance API.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+![App Demo](https://media.giphy.com/media/pZaMWP9nI7cGCzLpAy/giphy.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Deployment
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To deploy this project first clean it by running:
+
+```bash
+  flutter clean
+```
+
+To rebuild project run:
+
+```bash
+  flutter pub get
+```
+
+To launch application run:
+
+```bash
+  flutter run
+```
+
